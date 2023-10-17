@@ -1,0 +1,6 @@
+{
+  "dirs": ["./x", "./y"],
+  "subgraphs": [
+    "https://a.com"
+  ]
+}
